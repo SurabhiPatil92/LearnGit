@@ -78,6 +78,7 @@ class  College
 	s1.ex[0].getReport();
 
 	System.out.println("This line is only for practicing git.");
+	System.out.println("2.  This line is only for practicing git.");
 	}
 
 }
